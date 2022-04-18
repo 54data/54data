@@ -13,5 +13,5 @@
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white">
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colabk&logoColor=white">
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 </div>
