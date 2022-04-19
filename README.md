@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white"><br/>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br/><br/> </div>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></div><br/><br/>
   
 <div align = "center"><h3>:books:Project:books:</h3>
   
@@ -23,11 +23,8 @@
   **[[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)**  
   **[[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)**  
   **[[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)**  
-  
-  
-  
-  
-</div>
+
+</div><br/><br/>
 
 <div align = "center"><h3>:hammer:Studying Algorithms:hammer:</h3>
   
