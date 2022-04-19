@@ -19,7 +19,7 @@
   
   <h3>:books:Project:books:</h3><br/>
   
-  - [[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)
+    - [[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)
   
   <h3>:hammer:Studying Algorithms:hammer:</h3><br/>
   
