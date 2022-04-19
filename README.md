@@ -18,6 +18,5 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={0514dong8ee})](https://solved.ac/{0514dong8ee})
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={0514dong8ee})](https://solved.ac/{0514dong8ee})
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0514dong8ee)](https://solved.ac/0514dong8ee)
 </div>
