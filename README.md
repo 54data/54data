@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Hi!%20I'm%20Haewon&fontSize=70&animation=blink)
 
 <div align = "center"><h3>:computer:Tech Stack:computer:</h3>
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -18,11 +19,15 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br/><br/>
 </div>
   
-<h3>:books:Project:books:</h3><br/>
+<div align = "center"><h3>:books:Project:books:</h3><br/>
   
-[[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)
+  [[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)
   
-<h3>:hammer:Studying Algorithms:hammer:</h3><br/>
+</div>
+
+<div align = "center"><h3>:hammer:Studying Algorithms:hammer:</h3><br/>
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0514dong8ee)](https://solved.ac/0514dong8ee)<br/><br/>
-:link:[Baekjoon Study](https://github.com/54data/Baekjoon-Study):link:
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0514dong8ee)](https://solved.ac/0514dong8ee)<br/><br/>
+  :link:[Baekjoon Study](https://github.com/54data/Baekjoon-Study):link:
+
+</div>
