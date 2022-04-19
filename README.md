@@ -29,7 +29,7 @@
 <div align = "center"><h3>:hammer:Studying Algorithms:hammer:</h3>
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0514dong8ee)](https://solved.ac/0514dong8ee)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)</br></br>
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=0514dong8ee&theme=warm)</br></br>
   **:link:[Baekjoon Study](https://github.com/54data/Baekjoon-Study):link:**
 
 </div>
