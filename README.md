@@ -23,9 +23,10 @@
 <div align = "center"><h3>:books:Project:books:</h3>
   
   **[[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)**  
-  **[[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)**  
-  **[[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)**  
-  **[[SQL] 서울시 인터넷 쇼핑몰 100개 평가 정보 분석](https://github.com/54data/Evaluation-of-100-Internet-Shopping-Mall-in-Seoul)**  
+  <br/>
+  **[[Python] 서울시 인터넷 쇼핑몰 100개 평가 정보 시각화](https://github.com/54data/Visualizing-the-Evaluation-of-100-Internet-Shopping-malls-in-Seoul.git)**  
+  **[[Python] 서울시 인터넷 쇼핑몰 100개 평가 정보 시각화](https://github.com/54data/Visualizing-the-Evaluation-of-100-Internet-Shopping-malls-in-Seoul.git)**  
+  **[[Python] 서울시 인터넷 쇼핑몰 100개 평가 정보 시각화](https://github.com/54data/Visualizing-the-Evaluation-of-100-Internet-Shopping-malls-in-Seoul.git)**  
 
 </div><br/><br/>
 
